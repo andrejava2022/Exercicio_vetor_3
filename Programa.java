@@ -44,7 +44,7 @@ public class Programa {
 		
 		System.out.println("Pessoas com menos de 16 anos: "+porcento+"%");
 		
-		//O problema esta daqui pra baixo
+		
 		int m = (int)menor;
 		for(i=0;i!=m;i++) {
 			if(idade[i]<16) {
